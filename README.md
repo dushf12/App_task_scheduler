@@ -32,7 +32,7 @@ Task Master Pro is a task management application built using Java. It provides a
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/dushf12/App_tas_scheduler.git
+    git clone https://github.com/dushf12/App_task_scheduler.git
     cd App_task_scheduler
 
     ```
