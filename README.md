@@ -7,9 +7,7 @@ Welcome to Task Scheduler, a comprehensive Java application designed to manage t
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
