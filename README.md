@@ -1,6 +1,6 @@
 # Task Master Pro
 
-Welcome to Task Scheduler, a comprehensive Java application designed to manage tasks efficiently. This project is developed and maintained by DevOps Shack, a YouTube channel dedicated to DevOps tutorials and best practices.
+Welcome to Task Scheduler, a comprehensive Java application designed to manage tasks efficiently. 
 
 ## Table of Contents
 - [Introduction](#introduction)
